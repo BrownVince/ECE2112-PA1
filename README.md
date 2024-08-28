@@ -1,5 +1,5 @@
 # ECE2112-PA1
-Supsup, Vince Joriz E.
+Supsup, Vince Joriz E. \n
 2ECE-D
 Aug. 29, 2024
 ## ALPHABET SOUP PROBLEM
