@@ -1,7 +1,7 @@
 # ECE2112-PA1
-Supsup, Vince Joriz E. \n
-2ECE-D
-Aug. 29, 2024
+Supsup, Vince Joriz E.  
+2ECE-D  
+Aug. 29, 2024  
 ## ALPHABET SOUP PROBLEM
 At the first problem, I tried to sort normal words, and it turned out perfectly fine. But when I added capital letters and symbols, it did not sort out the way I wanted it to be, the capital letters came first before the lower case letters. So I've put a function that makes the word all lowercase and a function that removes symbols so that only the alphabets will be sorted out.
 ## EMOTICON PROBLEM
